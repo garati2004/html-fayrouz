@@ -1,0 +1,35 @@
+html {background-color: #F79BD3;}
+
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    color: white;
+    background-color: #241468; width: fit-content;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.image {
+    width: 500px;
+    border: 10px white solid ;
+    margin-top: 30px;
+}
+
+p {
+    font-family: 'Caveat', cursive;
+    font-size: 29pt;
+    font-weight: 550;
+    margin-top: 2px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #9F0D7F;
+}
+
+#image1 {
+    margin-top:25px;
+}
+
+#poster {
+    text-align: center;
+
+}
